@@ -1,0 +1,47 @@
+section.space {
+	padding: 60px 0 60px;
+}
+
+.bg-cover {
+	background-position: center !important;
+	background-size: cover !important;
+}
+
+section {
+	padding: 80px 0 80px;
+	position: relative;
+}
+
+.form-control.form-control.lg {
+	height: 60px !important;
+	padding: 10px 15px;
+}
+
+.btn.custom-height-lg {
+	border: none;
+	height: 60px;
+    padding-left: 35px;
+    padding-right: 35px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.icon {
+	right: 8px;
+	left: 8px;
+	color: #aeb3bb;
+	font-size: 17px;
+}
+
+.form-control.lg.left-ico {
+	border: none;
+    right: 10px;
+}
+
+@media only screen and (max-width: 768px){
+	.btn.custom-height-lg {
+		padding-left: 10px;
+		padding-right: 10px;
+	}	
+}

@@ -1,0 +1,15 @@
+.span-text{
+    color: #28b661 !important;
+}
+
+.nav-btn{
+    color: white !important;
+    background-color: #28b661 !important;
+    padding: 10px 20px;
+    border-radius: 15px 15px;
+}
+
+.nav-btn:hover{
+    color: aliceblue;
+    background-color: #0a9642 !important;
+}
